@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">KCode</string>
+    <string name="lbl_splash">Splash</string>
+    <string name="lbl_next">Next</string>
+    <string name="lbl_skip">Skip</string>
+    <string name="hint_mobile">Mobile</string>
+    <string name="lbl_login">Login</string>
+    <string name="lbl_lorem">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.</string>
+    <string name="lbl_ok">OK</string>
+    <string name="lbl_close">Close</string>
+    <string name="msg_no_internet">No Internet!</string>
+    <string name="msg_enter_mobile">Please enter mobile</string>
+    <string name="lbl_signup">Sign Up</string>
+    <string name="msg_something_went_wrong">Something went wrong! Please try again later.</string>
+    <string name="lbl_who_we_are">We focus on bringing value and solve business challenges through the delivery of modern IT services and solutions</string>
+    <string name="nikhil_muliyasiya">Nikhil Muliyasiya</string>
+</resources>

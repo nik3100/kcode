@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_round_white"
+    android:orientation="vertical"
+    android:padding="@dimen/_23sdp">
+
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/imgAlert"
+        android:layout_width="@dimen/_56sdp"
+        android:layout_height="@dimen/_56sdp"
+        android:src="@drawable/ic_round_help_outline_24"
+        android:layout_gravity="center" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/txtAlertMsg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_16sdp"
+        android:gravity="center"
+        android:text="@string/msg_something_went_wrong"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_14ssp" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnAlertOk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_16sdp"
+        android:background="@drawable/bg_round_white"
+        android:backgroundTint="@color/purple_500"
+        android:textColor="@color/white"
+        android:paddingVertical="@dimen/_8sdp"
+        android:textSize="@dimen/_14ssp"
+        android:text="@string/lbl_ok" />
+
+</LinearLayout>
